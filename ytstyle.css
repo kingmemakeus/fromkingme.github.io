@@ -1,0 +1,23 @@
+*{
+   margin:0;
+   padding:0;
+font-family:arial bold italic;
+}
+.banner{
+       width:100%;
+       height:100%;
+       background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url("https://unitedkpop.com/wp-content/uploads/2021/11/Kingdom_Excalibur_concept_3_solar_all_group.jpg");
+       background-size:cover;
+       background-repeat:no-repeat;
+       background position:right;
+       background-quality:hd;
+}
+.navbar ul li{
+list-style : none;
+display : grid;
+float : center ;
+margin: 30px ;
+text-align : left;
+position : relative;
+}
+
