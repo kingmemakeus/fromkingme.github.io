@@ -5,12 +5,11 @@ font-family:arial bold italic;
 }
 .banner{
        width:100%;
-       height:100vh;
+       height:100%;
        background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(https://pbs.twimg.com/media/Fcl6JLPaUAMSglK?format=jpg&name=4096x4096);
        background-size:cover;
        background-repeat:no-repeat;
-background-attachment : fixed;
-       background-position:center;
+       background position:center;
        background-quality:hd;
 }
 .logo{
@@ -21,7 +20,7 @@ cursor : pointer;
 list-style : none;
 display : inline-block ;
 float : center ;
-margin: 30px;
+margin: 30px ;
 text-align :  center;
 position : relative;
 }
@@ -29,6 +28,7 @@ position : relative;
 text-decoration : none;
 color : black;
 text-transform : uppercase;
+style : bold;
 }
 .navbar ul li:after{
 content : '';
