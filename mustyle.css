@@ -2,8 +2,18 @@
    margin:0;
    padding:0;
 font-family:arial bold italic;
-color : white;
+color : black;
 }
+.banner{
+       width:100%;
+       height:100%;
+       background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(https://wallpaperaccess.com/full/2790794.jpg);
+       background-size:cover;
+       background-repeat:no-repeat;
+       background position:right;
+       background-quality:hd;
+}
+
 .bg
 {
 width:100%;
