@@ -44,8 +44,8 @@ width:100%;
 position : absolute;
 left : 10px;
 top: 100%;
-transform=translateY(-30%);
+transform=translateY(-80%);
 text-align:center;
-color:black;
+color:white;
 font : bold;
 }
