@@ -41,10 +41,7 @@ width : 100%;
 
 .content{
 width:100%;
-position : relative;
-left : 10px;
-top: 100%;
-transform=translateY(-150%);
+position : absolute;
 text-align:center;
 color:white;
 font : bold;
