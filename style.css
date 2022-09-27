@@ -41,8 +41,6 @@ width : 100%;
 .content{
 width:100%;
 position : absolute;
-text-align:center;
 color:black;
 font : bold;
-left : -50px;
 }
