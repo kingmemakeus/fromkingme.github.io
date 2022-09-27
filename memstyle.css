@@ -36,9 +36,10 @@ cursor : pointer;
 list-style : none;
 display : in-line grid;
 float : center ;
-margin: 1000px ;
+margin: 100px ;
 text-align : center;
 position : relative;
+text-size : 300%;
 }
 .navbar ul li a{
 text-decoration : none;
