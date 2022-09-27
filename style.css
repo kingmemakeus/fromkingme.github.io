@@ -4,17 +4,7 @@
 font-family:arial bold italic;
 }
 .banner{
-       width:100%;
-       height:100%;
-       background-image:linear-gradient(rgba(0,0,0,0),rgba(0,0,0,0)),url(https://preview.redd.it/9s1osdg669m91.jpg?auto=webp&s=37acd92f6dcfb65bc7cfd5d7d828df4e91856702);
-       background-size:cover;
-       background-repeat:no-repeat;
-       background position:center;
-       background-quality:hd;
-}
-.bg{
-width:100%;
-cursor:pointer;
+      background-color : light-green;
 }
 .logo{
 width : 120px;
