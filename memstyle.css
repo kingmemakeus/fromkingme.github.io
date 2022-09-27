@@ -3,6 +3,40 @@
    padding:0;
 font-family:sans-serif;
 }
+.logo1{
+width : 100%;
+position : relative;
+}
+.logo2{
+width : 100%;
+position : relative;
+}
+
+.logo3{
+width : 100%;
+position : relative;
+}
+
+.logo4{
+width : 100%;
+position : relative;
+}
+
+.logo5{
+width : 100%;
+position : relative;
+}
+
+.logo6{
+width : 100%;
+position : relative;
+}
+
+.logo7{
+width : 100%;
+position : relative;
+}
+
 .navbar ul li{
 list-style : none;
 display : in-line grid;
